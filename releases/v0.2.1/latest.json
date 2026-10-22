@@ -1,0 +1,19 @@
+{
+  "version": "0.2.1",
+  "notes": "v0.2.1: first-launch intro video (branding.json), Replay intro; in-app updates\n\n- Intro plays once before setup: Skip, mute, click-to-play fallback, ~0.35 volume with audio fades, holds last frame then fades to setup\n- Check for updates in Settings > About, quiet launch check, progress, Restart to update",
+  "pub_date": "2026-10-22T05:09:25Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMVVvVkNzeUw0ejVjVE1hTzJZdUNXeHRzSWMzR3BaL2VjWkVxcUlHenRleDBNRXA5eDdYU3NzZlFuUFlTYnMybTJUQVJBZEptRUlvZHdZSFVuNTRUOFUyU0dLd0hxc0FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjQ1NzQ1CWZpbGU6VW5ib3VuZCBJbmZvdGVjaF8wLjIuMV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yLjEKYk1QS3IyNUEwandJc2tDQWJJeXZLUFRjeW42WldtSW5jYVphYzJMK3ZZOW9iNzU4V0JXTWgwV1lIQVBDa1FJOXhPK2JySW5ld3ZJbUUwZHpUOUdNQnc9PQo=",
+      "url": "https://raw.githubusercontent.com/akindabigdeal-collab/unbound-infotech-releases/main/releases/v0.2.1/Unbound-Infotech_0.2.1_x64-setup.exe"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMVVvVkNzeUw0enhKV2pFQUZSSlhTY1FoNEJxK1FYc0JVZ1RJdEpVVVFpb0N4MWh5MGY3bHBtakQ2ek9rZGNkYWlqUFdIVDJnTzR0VnF4OGRZVnBpZEI0eWVMOGRTaUE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjQ1NDk0CWZpbGU6VW5ib3VuZCBJbmZvdGVjaC5hcHAudGFyLmd6CXZlcnNpb246MC4yLjEKd3VuVjlMVTlkOHVkcWczUWg1Y0pjcXNWSHRYalBLUzF6aGhXdDNGRlc0TE1BRGV1NFNjYkJFejk5dmw1REdPQ0FNN2NXbCtIMHN3Yy80b2plemswQUE9PQo=",
+      "url": "https://raw.githubusercontent.com/akindabigdeal-collab/unbound-infotech-releases/main/releases/v0.2.1/Unbound-Infotech_0.2.1_universal.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMVVvVkNzeUw0enhKV2pFQUZSSlhTY1FoNEJxK1FYc0JVZ1RJdEpVVVFpb0N4MWh5MGY3bHBtakQ2ek9rZGNkYWlqUFdIVDJnTzR0VnF4OGRZVnBpZEI0eWVMOGRTaUE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjQ1NDk0CWZpbGU6VW5ib3VuZCBJbmZvdGVjaC5hcHAudGFyLmd6CXZlcnNpb246MC4yLjEKd3VuVjlMVTlkOHVkcWczUWg1Y0pjcXNWSHRYalBLUzF6aGhXdDNGRlc0TE1BRGV1NFNjYkJFejk5dmw1REdPQ0FNN2NXbCtIMHN3Yy80b2plemswQUE9PQo=",
+      "url": "https://raw.githubusercontent.com/akindabigdeal-collab/unbound-infotech-releases/main/releases/v0.2.1/Unbound-Infotech_0.2.1_universal.app.tar.gz"
+    }
+  }
+}
