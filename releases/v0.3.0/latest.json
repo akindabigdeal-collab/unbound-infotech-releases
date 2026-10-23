@@ -1,0 +1,19 @@
+{
+  "version": "0.3.0",
+  "notes": "v0.3.0: Learn (paths, streaks, Replay Lab, Bull vs Bear, What-If, Regime, Earnings digest), beginner mode, desktop alerts, news clustering/MS NOW/pending grades, quiet intro, CI cargo check; mobile 0.2.0",
+  "pub_date": "2026-10-23T23:46:39Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMVVvVkNzeUw0ejVlRGo4bWp1cUVjLzdlYTRIakpOWCtyVFQ2S0EyN0lVb1N4ZTRTS3UzM0sreGJaSjlzbnUvZzBmSU9tZFdSVGg1ZHpueFFtSEJTTFBBdk80aGtHRndrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzk5MTc5CWZpbGU6VW5ib3VuZCBJbmZvdGVjaF8wLjMuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjAKcVQ0emtMUUVXUmE4eWxwT21mYzJJbVNWa2ZnK1NNSEZpRDVwUk9PVWZFeUdLVDFWVVY4UjJJOHBFSTJvSG55Z2NhZGhmU1FjMElFTXRiUEFyMFZvQ2c9PQo=",
+      "url": "https://raw.githubusercontent.com/akindabigdeal-collab/unbound-infotech-releases/main/releases/v0.3.0/Unbound-Infotech_0.3.0_x64-setup.exe"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMVVvVkNzeUw0ejRiOTlvMExMVzdqZ0pTdTVGTm9vd2JmcDUzQmgxbEwvQUE4R0ZKZUYzY3JreHpESkNjalZDaWgvbG54YXQyWVR1ZitMNFg2ZTd2cEdJQmJPTG8vWlE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzk4OTc3CWZpbGU6VW5ib3VuZCBJbmZvdGVjaC5hcHAudGFyLmd6CXZlcnNpb246MC4zLjAKZTh6dG1BVVFDQkMzYnJvd3FndVY4Y29uWlhGRDNOSmdvNDVreEFHeEErbTllMkFMNWJyK3FBd1Nib21XTWhzWXpNK2xVcnRyUnZXVmlvMGRBbC9TRHc9PQo=",
+      "url": "https://raw.githubusercontent.com/akindabigdeal-collab/unbound-infotech-releases/main/releases/v0.3.0/Unbound-Infotech_0.3.0_universal.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMVVvVkNzeUw0ejRiOTlvMExMVzdqZ0pTdTVGTm9vd2JmcDUzQmgxbEwvQUE4R0ZKZUYzY3JreHpESkNjalZDaWgvbG54YXQyWVR1ZitMNFg2ZTd2cEdJQmJPTG8vWlE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzk4OTc3CWZpbGU6VW5ib3VuZCBJbmZvdGVjaC5hcHAudGFyLmd6CXZlcnNpb246MC4zLjAKZTh6dG1BVVFDQkMzYnJvd3FndVY4Y29uWlhGRDNOSmdvNDVreEFHeEErbTllMkFMNWJyK3FBd1Nib21XTWhzWXpNK2xVcnRyUnZXVmlvMGRBbC9TRHc9PQo=",
+      "url": "https://raw.githubusercontent.com/akindabigdeal-collab/unbound-infotech-releases/main/releases/v0.3.0/Unbound-Infotech_0.3.0_universal.app.tar.gz"
+    }
+  }
+}
