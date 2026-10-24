@@ -1,0 +1,19 @@
+{
+  "version": "0.3.1",
+  "notes": "v0.3.1: Day Trading module (practice money) + v2 features + launch splash and polish\n\nDay Trading: intraday desk (VWAP/OR/PM/prior-day levels, hotkeys), scanner (gap/RVOL/halts), bracket practice ticket with risk sizing, simulated L2/T&S, guardrails (max-loss lock, cooldown, PDT explainer), journal with P&L calendar, bar-by-bar replay, pre-market prep.\nv2: data health, market calendar, indicators/drawings/chart alerts, multi-chart, Scan Builder, Trade Planner, risk engine + audit, sim order blotter, backtester with out-of-sample split, alert engine, grounded AI Coach, configurable account rules (FINRA RN 26-10), compact density.\nPolish: new 3D logo launch animation (skippable, can be turned off), new brand mark, logo loading states, hotkeys without clicking the chart, tooltip/checkbox/footer/calendar/light-theme fixes.\nPractice money only \u2014 no real orders. Educational, not investment advice.",
+  "pub_date": "2026-10-24T23:34:42Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMVVvVkNzeUw0ejlNUmxYOWxJY0l5enR1K2t6OGdPSDg3UVZkRWxwaDlPTFNOait1Rys1OTVUTm11Z0EzMWdPamNEV3dtclBQS2tvaE1pYXJvNXd1bXA2bVFmdVVHa1E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODg0ODY1CWZpbGU6VW5ib3VuZCBJbmZvdGVjaF8wLjMuMV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjEKS3hRZnFsVk1uT09CeXdJcUF0Y1dyOEJpdnlpbUpLY2E4Uk9GZkRzYlBlQ1hrMnpZQnZmNE5FSWdWWVdlV29IbVhRemZIQlFUTWdEV2ROUFZ3ellpQkE9PQo=",
+      "url": "https://raw.githubusercontent.com/akindabigdeal-collab/unbound-infotech-releases/main/releases/v0.3.1/Unbound-Infotech_0.3.1_x64-setup.exe"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMVVvVkNzeUw0ejYvUFYyaEVwcXF2S05aSU5YMzVvZTFPQTM4b0ZMZitBWnlNSjV4cXdGZWQxU1l4TjR6Umk3cXZkN2o4UHNxMitIOFBzWGFieG4rK0w0M1ZyQ0w2ZGdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODg0NjIyCWZpbGU6VW5ib3VuZCBJbmZvdGVjaC5hcHAudGFyLmd6CXZlcnNpb246MC4zLjEKRnZxbDc4UlJRY1dnbEJEelRLQVdYc0FIemlOb0VkQmZwcDFndHFHOTFxclRsK3NZQkJPaUVzUjJNRHdQYmJ3SEo1b1EwajNYcFVkZ0tRUGhEbVdCQnc9PQo=",
+      "url": "https://raw.githubusercontent.com/akindabigdeal-collab/unbound-infotech-releases/main/releases/v0.3.1/Unbound-Infotech_0.3.1_universal.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMVVvVkNzeUw0ejYvUFYyaEVwcXF2S05aSU5YMzVvZTFPQTM4b0ZMZitBWnlNSjV4cXdGZWQxU1l4TjR6Umk3cXZkN2o4UHNxMitIOFBzWGFieG4rK0w0M1ZyQ0w2ZGdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODg0NjIyCWZpbGU6VW5ib3VuZCBJbmZvdGVjaC5hcHAudGFyLmd6CXZlcnNpb246MC4zLjEKRnZxbDc4UlJRY1dnbEJEelRLQVdYc0FIemlOb0VkQmZwcDFndHFHOTFxclRsK3NZQkJPaUVzUjJNRHdQYmJ3SEo1b1EwajNYcFVkZ0tRUGhEbVdCQnc9PQo=",
+      "url": "https://raw.githubusercontent.com/akindabigdeal-collab/unbound-infotech-releases/main/releases/v0.3.1/Unbound-Infotech_0.3.1_universal.app.tar.gz"
+    }
+  }
+}
