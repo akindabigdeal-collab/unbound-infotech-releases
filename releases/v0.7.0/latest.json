@@ -1,0 +1,19 @@
+{
+  "version": "0.7.0",
+  "notes": "Best models for this computer: Brain checks memory, graphics memory and Apple chips, recommends a main, photo and quick model that fit together, and downloads the missing ones with one click.\nFaster answers: local models stay loaded for 30 minutes and warm up when Brain opens, so the first answer starts sooner. Answers stream word by word.\nSaved rooms: star a room to keep it, rename it, filter All or Saved, and search every message with highlighted matches.\nExport a room as PDF or Markdown to Downloads > Unbound Brain, with Show in folder.\nCrash and error reports help fix problems. Only the error text, app version and Mac or Windows are sent, with personal details removed. Turn it off in Settings.\nCleaner look: Brain follows the light and dark themes, a new Match system theme, smoother motion, clearer focus outlines, nicer file pickers and toolbars.\nOne broken section no longer blanks the whole app; it shows Try again instead.",
+  "pub_date": "2026-11-07T06:50:17Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMVVvVkNzeUw0ejliMW5RMHdVSkhQN0FJaE9YYzRkQmUxZ1V6RmljUUhvMUdLVnFyUUdZMzFxMWNMaWN2S1Y3d2V1VkZ0bTAxdlRXU29EK1h6a2RFNnZLcXZLQXpWMmdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MDMzNzMzCWZpbGU6VW5ib3VuZCBJbmZvdGVjaF8wLjcuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC43LjAKZmVnVFUvb0tUS25CK1pEYTZCUDZ3c1VPVlBpTDdaRjNJY3hPVGt5b3g0ajAzM0VWM2Y5Z1dnY1ZaUXJNVGo0RnFzcXV4dG93Y0hPZ2RNZUNsM3NFQ1E9PQo=",
+      "url": "https://raw.githubusercontent.com/akindabigdeal-collab/unbound-infotech-releases/main/releases/v0.7.0/Unbound-Infotech_0.7.0_x64-setup.exe"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMVVvVkNzeUw0ejRWUlRMRUYyZkppcjEvWkZwaXpGK3JvWWlvMTUzSXVtRGtteDJwamlHZlhIdHk0MVJQamx0TjdDeUVsTS91N2hxT2J6YzdaZER0UzN1ay9IWjloRkE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MDMzNTMwCWZpbGU6VW5ib3VuZCBJbmZvdGVjaC5hcHAudGFyLmd6CXZlcnNpb246MC43LjAKSGlndFNpUFUyUXUxajRHR2p3TnJpK0FWeThKVkdwSm9vMVBKNzVlSzM1OVJDMXV4ZjhUTUxJdENXdXc3UFhobGNNMkgySHFSRTU1QXlXUEV3MCt6QlE9PQo=",
+      "url": "https://raw.githubusercontent.com/akindabigdeal-collab/unbound-infotech-releases/main/releases/v0.7.0/Unbound-Infotech_0.7.0_universal.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMVVvVkNzeUw0ejRWUlRMRUYyZkppcjEvWkZwaXpGK3JvWWlvMTUzSXVtRGtteDJwamlHZlhIdHk0MVJQamx0TjdDeUVsTS91N2hxT2J6YzdaZER0UzN1ay9IWjloRkE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MDMzNTMwCWZpbGU6VW5ib3VuZCBJbmZvdGVjaC5hcHAudGFyLmd6CXZlcnNpb246MC43LjAKSGlndFNpUFUyUXUxajRHR2p3TnJpK0FWeThKVkdwSm9vMVBKNzVlSzM1OVJDMXV4ZjhUTUxJdENXdXc3UFhobGNNMkgySHFSRTU1QXlXUEV3MCt6QlE9PQo=",
+      "url": "https://raw.githubusercontent.com/akindabigdeal-collab/unbound-infotech-releases/main/releases/v0.7.0/Unbound-Infotech_0.7.0_universal.app.tar.gz"
+    }
+  }
+}
