@@ -1,0 +1,19 @@
+{
+  "version": "0.9.0",
+  "notes": "First-launch intro: a 15-second video plays full-window the first time the app opens (including when you update to 0.9.0), with sound if the computer allows it, or muted with an Unmute button. Skip or press Esc to go on to the setup wizard. It will not play again after that; Watch intro in Settings, Help, or About plays it any time.\n- Pinokio models in Brain: Add a model now looks for Pinokio on this computer (ports 42000\u201342059). Running chat apps can be added in one click. Stopped or not-yet-installed chat apps open Pinokio so you can start or install them there. Image, audio, and video apps stay hidden \u2014 they aren't used in a Brain chat.\n- Debates stay honest: the moderator must credit the speaker who actually said each point, and must report real disagreements instead of writing \"none\" when points were dropped. Later reviewers can see earlier reviews. The strongest model in the room is now the default moderator, not the smallest.\n- Adding a local model works better when the app is opened from Finder (Ollama is still found in Homebrew, /usr/local/bin, or the Ollama app). Local OpenAI-compatible servers are detected both with and without /v1 on the address.",
+  "pub_date": "2026-11-19T06:42:45Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMVVvVkNzeUw0endld2d2azJkaU9kb2VSRmtsTzRVeWdnNTA5OWpNVCtFZTIyazJ4YnVUVTk3Qmg1cW5zb0JOQTdRckprRzV1K2ZENmVQTUxGNm5TcGtqWGRUSEU0UGdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDcwMTA1CWZpbGU6VW5ib3VuZCBJbmZvdGVjaF8wLjkuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC45LjAKZUIwMEtKbmxTMG5VWXRXczdjQjNTM3JDaExkMXBSWExmQWVMZHI0RnN0U3Rha09QVlI1b0Z6ei9GbUdnRGw1UzgzMVVPMy93UGhFR2hQUWhLeVRCQWc9PQo=",
+      "url": "https://raw.githubusercontent.com/akindabigdeal-collab/unbound-infotech-releases/main/releases/v0.9.0/Unbound-Infotech_0.9.0_x64-setup.exe"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMVVvVkNzeUw0ejRJWmtkQ1ozZTg3R3pYekxaU0tDT1VFamdObU92bTZONnhHcHdZY2x4ckIzZmJyemZydjlLQjJMQThBWVF6OUtzaE1DdEZ6QjYvYlBIM1ZndTROMndJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDY5MDAzCWZpbGU6VW5ib3VuZCBJbmZvdGVjaC5hcHAudGFyLmd6CXZlcnNpb246MC45LjAKZlYzQkhtMlNaNisxdHhyRVEzRHZNVi94cGllTU5USU5RRFNTS0tFUVhZb01tQXNuS3pQYnJjUURCbzRTOFViUGFUSVVKcmhsMkk1Smg3cHJzOFV4Q3c9PQo=",
+      "url": "https://raw.githubusercontent.com/akindabigdeal-collab/unbound-infotech-releases/main/releases/v0.9.0/Unbound-Infotech_0.9.0_universal.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMVVvVkNzeUw0ejRJWmtkQ1ozZTg3R3pYekxaU0tDT1VFamdObU92bTZONnhHcHdZY2x4ckIzZmJyemZydjlLQjJMQThBWVF6OUtzaE1DdEZ6QjYvYlBIM1ZndTROMndJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDY5MDAzCWZpbGU6VW5ib3VuZCBJbmZvdGVjaC5hcHAudGFyLmd6CXZlcnNpb246MC45LjAKZlYzQkhtMlNaNisxdHhyRVEzRHZNVi94cGllTU5USU5RRFNTS0tFUVhZb01tQXNuS3pQYnJjUURCbzRTOFViUGFUSVVKcmhsMkk1Smg3cHJzOFV4Q3c9PQo=",
+      "url": "https://raw.githubusercontent.com/akindabigdeal-collab/unbound-infotech-releases/main/releases/v0.9.0/Unbound-Infotech_0.9.0_universal.app.tar.gz"
+    }
+  }
+}
